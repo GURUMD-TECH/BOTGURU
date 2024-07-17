@@ -1,18 +1,18 @@
-<h1 align="center"> 𝐁𝐎𝐓 𝐆𝐔𝐑𝐔 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐍𝐓𝐇𝐄𝐑 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BOT GURU-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GURU+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://telegra.ph/file/00babef1e76a41f953d44.jpg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BOT GURU-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GURU+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="BOT GURU-MD" width="700" height="300" src="https://telegra.ph/file/c69fb06f6ba4e7bb53aab.jpg">
+    <img alt="-MD" width="700" height="300" src="https://telegra.ph/file/c69fb06f6ba4e7bb53aab.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/GURUMD-TECH/Botguru-Md"><img title="Author" src="https://img.shields.io/badge/BOT GURU_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/gurumd-tech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/gurumd-tech/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/gurumd-tech/Flash-Md?&style=social"></a>
+<a href="https://github.com/gurumd-tech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/gurumd-tech?label=Followers&style=social"></a>
+<a href="https://github.com/gurumd-tech/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/gurumd-tech/Botguru-Md?&style=social"></a>
 <a href="https://github.com/gurumd-tech/Bot guru-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gurumd-tech/Flash-Md?style=social"></a>
 <a href="https://github.com/gurumd-tech/Bot guru-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gurumd-tech/Bot guru-Md?label=Watching&style=social"></a>
   
@@ -87,6 +87,6 @@
 - <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P" target="_blank">
     <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a><img src='https://telegra.ph/file/8b0d172dea5f1ea2f0490.jpg'/></a>
+<a><img src='https://telegra.ph/file/c69fb06f6ba4e7bb53aab.jpg'/></a>
 
 - <a><img src='https://telegra.ph/file/8b0d172dea5f1ea2f0490.jpg'/></a>
